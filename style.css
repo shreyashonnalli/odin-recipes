@@ -1,0 +1,18 @@
+#header{
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+}
+*{
+  background-color: black;
+}
+
+.link{
+  font-family: sans-serif;
+  color: grey;
+}
+
+.text{
+  font-family: sans-serif;
+  color: white;
+}
